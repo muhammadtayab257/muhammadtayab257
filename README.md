@@ -1,6 +1,6 @@
 ### Hi there, I'm Tayyab 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer, and Learner!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -35,14 +35,6 @@
 
 <br />
 <br />
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/Tayyab01166761
 [youtube]: https://www.youtube.com/channel/UC1DSf9ydrryyHPTz5yAZSIQ
