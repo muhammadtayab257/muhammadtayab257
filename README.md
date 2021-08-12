@@ -47,4 +47,4 @@
 
 <br>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadtayab257)](https://github.com/muhammadtayab257/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=muhammadtayab257)](https://github.com/muhammadtayab257/github-readme-stats)
