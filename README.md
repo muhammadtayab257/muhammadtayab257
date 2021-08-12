@@ -48,4 +48,9 @@
 <br>
 <br>
 <!-- https://github-readme-stats.vercel.app/api?username=muhammadtayab257 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadtayab257)](https://github.com/muhammadtayab257/github-readme-stats)
+
+<details>
+  <summary>⚡ GitHub Stats</summary>
+  <img align="left" alt="Tayyab's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muhammadtayab257&show_icons=true&hide_border=true" />
+
+</details>
