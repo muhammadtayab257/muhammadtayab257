@@ -46,9 +46,8 @@
 [jsplaylist]:  https://www.youtube.com/channel/UC1DSf9ydrryyHPTz5yAZSIQ
 [cssplaylist]: https://www.youtube.com/channel/UC1DSf9ydrryyHPTz5yAZSIQ
 
-
 <br>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtayab257&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale" alt="tayyab" /></p> 
-<br>
+
  <p> <img align="left" alt="Tayyab's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadtayab257" /></p>
 
