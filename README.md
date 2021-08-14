@@ -52,7 +52,7 @@
 <!-- https://github-readme-stats.vercel.app/api?username=muhammadtayab257 -->
 
 <details>
-  <summary>⚡ GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
   <img align="left" alt="Tayyab's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadtayab257" />
 </details>
 <br>
