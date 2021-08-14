@@ -49,10 +49,9 @@
 
 <br>
 <br>
-<!-- https://github-readme-stats.vercel.app/api?username=muhammadtayab257 -->
-
-  <summary> GitHub Stats</summary>
  <p> <img align="left" alt="Tayyab's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadtayab257" /></p>
+<br>
+<br>
 <br>
 <br>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtayab257&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale" alt="tayyab" /></p> 
