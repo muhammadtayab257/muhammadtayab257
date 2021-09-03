@@ -1,10 +1,10 @@
 ### Hi there, I'm Tayyab 👋
 
-## I'm a Developer, and Learner!
+## I'm a FrontEnd Developer, and Learner!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Nodej.Js
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects  
+- 🥅 2021 Goals: Learn more to Skills   
 
 ### Connect with me:
 
