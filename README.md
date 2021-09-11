@@ -1,15 +1,15 @@
 ### Hi there, I'm Tayyab 👋
 
-## I'm a FrontEnd Developer, and Learner!
+## I'm a FrontEnd Developer and Learner!
 
 - 🌱 I’m currently learning Nodej.Js
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn more to Skills   
+- 🥅 2021 Goals: Learn more about Skills   
 
 ### Connect with me:
 
 
-[<img align="left" alt="Tayyab | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Tayyab | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color:#fff;" />][youtube]
 [<img align="left" alt="Tayyab | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Tayyab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tayyab | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
