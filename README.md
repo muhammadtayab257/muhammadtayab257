@@ -2,7 +2,7 @@
    
 ## I'm a FrontEnd Developer and Learner!
 
-- 🌱 I’m currently learning Nodej.Js
+- 🌱 I’m currently learning Node.Js
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn more about Skills   
 
