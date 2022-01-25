@@ -1,10 +1,10 @@
 ### Hi there, I'm Tayyab 👋
    
-## I'm a FrontEnd Developer and Learner!
+## I'm a MEAN Stack Developer and Learner!
 
-- 🌱 I’m currently learning Node.Js
+- 🌱 I’m currently Working on Node.Js
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Skills   
+- 🥅 2022 Goals: Learn more new Skills   
 
 ### Connect with me:
 
