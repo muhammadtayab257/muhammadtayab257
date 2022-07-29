@@ -1,7 +1,3 @@
-### Hi there, I'm Tayyab 👋
+### Hi there, I'm Tayyab 👋 
    
-
-
-
-
 
