@@ -10,20 +10,33 @@ I like keeping my code clean and my systems simple. I'm comfortable working inde
 
 ### What I work with
 
-**Frontend** — Angular, React, TypeScript, Tailwind, SCSS
-**Backend** — Node.js, Express.js, REST, GraphQL, WebSockets
-**Databases** — PostgreSQL, MySQL, MongoDB, Redis, Firebase
-**Infra & Tools** — AWS (EC2, S3, SQS), Docker, Nginx, Sentry, Datadog
-**Testing** — Jest, Cypress, Mocha, Chai
-**AI & Integrations** — OpenAI API, LLM integration, AI-powered features
-**Practices** — Microservices, Micro Frontends, OAuth 2.0, Agile/Scrum
+| Area | Technologies |
+|---|---|
+| **Frontend** | Angular, React, TypeScript, Tailwind, SCSS |
+| **Backend** | Node.js, Express.js, REST, GraphQL, WebSockets |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis, Firebase |
+| **Infra & Tools** | AWS (EC2, S3, SQS), Docker, Nginx, Sentry, Datadog |
+| **Testing** | Jest, Cypress, Mocha, Chai |
+| **AI & Integrations** | OpenAI API, Anthropic API, Gemini API, LLM integration |
+| **Practices** | Microservices, Micro Frontends, OAuth 2.0, Agile/Scrum |
 
 ---
 
 ### Projects
 
+🤖 **[aisync — Unified AI Provider SDK](https://github.com/muhammadtayab257/aisync)**
+
+A production-grade npm package that unifies OpenAI, Anthropic, and Gemini into one clean interface. Built for developers who want reliability without the infrastructure overhead — handles automatic fallback between providers, retry with exponential backoff, per-call cost tracking, structured logging, streaming support, and health checks. One function call works across all three providers with a standardized response format.
+
+`Node.js` `OpenAI` `Anthropic` `Gemini` `Jest`
+
+---
+
 🔍 **[DBLens — Database Explorer for VS Code](https://github.com/muhammadtayab257/vscode-dblens)**
+
 A VS Code extension for browsing tables, running SQL queries, and visualizing schema — supports PostgreSQL, MySQL, and SQLite. Features include a visual connection form, SQL editor with autocomplete, paginated table viewer, ER diagram visualization, and CSV export.
+
+`VS Code Extension` `PostgreSQL` `MySQL` `SQLite`
 
 ---
 
