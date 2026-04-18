@@ -24,7 +24,7 @@ I like keeping my code clean and my systems simple. I'm comfortable working inde
 
 ### Projects
 
-🤖 **[aisync — Unified AI Provider SDK](https://github.com/muhammadtayab257/aisync)**
+🤖 **[aiorch — Unified AI Provider SDK](https://github.com/muhammadtayab257/aiorch)**
 
 A production-grade npm package that unifies OpenAI, Anthropic, and Gemini into one clean interface. Built for developers who want reliability without the infrastructure overhead — handles automatic fallback between providers, retry with exponential backoff, per-call cost tracking, structured logging, streaming support, and health checks. One function call works across all three providers with a standardized response format.
 
